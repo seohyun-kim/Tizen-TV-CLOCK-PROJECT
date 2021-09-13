@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Clock_Project.MainPage">
+    <ContentPage.Content>
+
+
+        <AbsoluteLayout BackgroundColor="White">
+            <Image
+                x:Name="wall1"
+                Opacity="1"
+                Source="wall4.png"/>
+            <Image
+                x:Name="wall2"
+                Opacity="1"
+                Source="wall2.png"/>
+            <Image
+                x:Name="wall3"
+                Opacity="1"
+                Source="wall3.png"/>
+   
+            
+            <StackLayout Orientation="Horizontal"  AbsoluteLayout.LayoutBounds="540,420,920,250">
+                <Label x:Name="TT" Text="AM"  FontSize="100" TextColor="WhiteSmoke"  FontAttributes="Bold"                    
+                       VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                <Label x:Name="HH" Text="00"  FontSize="300" TextColor="WhiteSmoke"  FontAttributes="Bold" 
+                       VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                <Label x:Name="COLON" Text=":"  TranslationY="-18" FontSize="300" TextColor="WhiteSmoke"  FontAttributes="Bold" 
+                       VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+                <Label x:Name="MM" Text="00"  FontSize="300" TextColor="WhiteSmoke"  FontAttributes="Bold" 
+                       VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                <Label x:Name="SS" Text="00"  FontSize="100" TextColor="WhiteSmoke" FontAttributes="Bold" 
+                       VerticalOptions="Center" HorizontalOptions="Center" />
+
+
+                <Label x:Name="WF" Text="Wf"  FontSize="100" TextColor="Beige"
+                       VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                <Label x:Name="TEMP" Text="temp"  FontSize="100" TextColor="Bisque" 
+                       VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                <Label x:Name="C" Text="°C"  FontSize="100" TextColor="Bisque" 
+                        VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+     
+        
+            </StackLayout>
+
+            <BoxView
+                 x:Name="AnalSec"
+                BackgroundColor="Beige"
+                AbsoluteLayout.LayoutBounds="1700,80,10,200"
+                AnchorY="1"/>
+            <BoxView
+                 x:Name="AnalMin"
+                BackgroundColor="Linen"
+                AbsoluteLayout.LayoutBounds="1700,130,10,150"
+                AnchorY="1"/>
+            <BoxView
+                 x:Name="AnalHour"
+                BackgroundColor="Bisque"
+                AbsoluteLayout.LayoutBounds="1700,200,10,80"
+                AnchorY="1"/>
+
+
+            <Label x:Name="DD" AbsoluteLayout.LayoutBounds="0,600,1920,180" 
+                   Text="DATE LABEL" VerticalOptions="CenterAndExpand" HorizontalOptions="Fill" FontSize="100" TextColor="BlanchedAlmond"/>
+
+            <Image
+                x:Name="Youtube"
+                Opacity="1"
+                AbsoluteLayout.LayoutBounds="1600,950,200,100"
+                Source="youtube.png"/>
+            <Image
+                x:Name="Netflix"
+                Opacity="1"
+                AbsoluteLayout.LayoutBounds="1300,950,200,100"
+                Source="netflix.png"/>
+            
+            <Image
+                x:Name="Google"
+                Opacity="1"
+                AbsoluteLayout.LayoutBounds="500,950,200,100"
+                Source="google.png"/>
+
+            <Image
+                x:Name="Insta"
+                Opacity="1"
+                AbsoluteLayout.LayoutBounds="300,950,150,100"
+                Source="instagram.png"/>
+            <Image
+                x:Name="FaceBook"
+                Opacity="1"
+                AbsoluteLayout.LayoutBounds="100,950,150,100"
+                Source="facebook.png"/>
+
+            <Label x:Name="NewsTitle" Text="default"  FontSize="90" 
+                   TextColor="White" FontAttributes="Italic,Bold" 
+                   AbsoluteLayout.LayoutBounds="100,850,1920,100"/>
+          
+
+        </AbsoluteLayout>
+
+    </ContentPage.Content>
+</ContentPage>

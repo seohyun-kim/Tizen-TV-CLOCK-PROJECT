@@ -1,0 +1,12 @@
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\bin\Debug\netstandard2.0\Clock_Project.deps.json
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\bin\Debug\netstandard2.0\Clock_Project.dll
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\bin\Debug\netstandard2.0\Clock_Project.pdb
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\Clock_Project.csprojAssemblyReference.cache
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\Clock_Project.AssemblyInfoInputs.cache
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\Clock_Project.AssemblyInfo.cs
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\Clock_Project.csproj.CoreCompileInputs.cache
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\Clock_Project.dll
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project\obj\Debug\netstandard2.0\Clock_Project.pdb

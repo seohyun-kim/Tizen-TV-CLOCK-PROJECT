@@ -1,0 +1,13 @@
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\bin\Debug\tizen80\Clock_Project.Tizen.deps.json
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\bin\Debug\tizen80\Clock_Project.Tizen.dll
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\bin\Debug\tizen80\Clock_Project.Tizen.pdb
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\bin\Debug\tizen80\Clock_Project.dll
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\bin\Debug\tizen80\Clock_Project.pdb
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\Clock_Project.Tizen.csprojAssemblyReference.cache
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\Clock_Project.Tizen.AssemblyInfoInputs.cache
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\Clock_Project.Tizen.AssemblyInfo.cs
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\Clock_Project.Tizen.csproj.CoreCompileInputs.cache
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\XamlC.stamp
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\Clock_Project.Tizen.csproj.CopyComplete
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\Clock_Project.Tizen.dll
+C:\Users\selen\source\repos\Clock_Project\Clock_Project\Clock_Project.Tizen\obj\Debug\tizen80\Clock_Project.Tizen.pdb
